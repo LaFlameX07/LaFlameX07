@@ -1,6 +1,8 @@
-<h1 align="center">Hi 👋, I'm Amit Murkalmath aka LaFlameX07</h1>
+![image](https://github.com/user-attachments/assets/f2c15165-5a87-441a-8a1a-ee03f210e1f5)<h1 align="center">Hi 👋, I'm Amit Murkalmath aka LaFlameX07</h1>
 <h3 align="center">Avid data enthusiast who's flexible with data scientist, analyst as well as ML roles too.</h3>
-<img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/18Q5XuMLK1VdJEa5fqol6K8LLMtSoVt_a/view?usp=sharing">
+
+<img align="right" alt="Coding" width="400" src="https://blucharlie.com/cdn/shop/files/thought280.jpg?v=1724423667">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laflamex07&label=Profile%20views&color=0e75b6&style=flat" alt="laflamex07" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/LaFlameX07?tab=repositories](https://github.com/LaFlameX07?tab=repositories)
