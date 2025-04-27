@@ -14,7 +14,7 @@
 
 - 🔬 AI/ML Enthusiast **Worked on Alzheimer’s detection, AI-Powered Disaster Response, and Sentiment Analysis**
 
-- 📫 How to reach me **355pavansvjc@gmail.com**
+- 📫 How to reach me **murkalmath.amit@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1YjH-fbs72PFCtNJfqrx3-jyi0dtGJG1e/view?usp=sharing](https://drive.google.com/file/d/1YjH-fbs72PFCtNJfqrx3-jyi0dtGJG1e/view?usp=sharing)
 
