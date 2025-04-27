@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f2c15165-5a87-441a-8a1a-ee03f210e1f5)<h1 align="center">Hi 👋, I'm Amit Murkalmath aka LaFlameX07</h1>
+<h1 align="center">Hi 👋, I'm Amit Murkalmath aka LaFlameX07</h1>
 <h3 align="center">Avid data enthusiast who's flexible with data scientist, analyst as well as ML roles too.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://blucharlie.com/cdn/shop/files/thought280.jpg?v=1724423667">
