@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amit Murkalmath aka LaFlameX07</h1>
-<h3 align="center">Avid data enthusiast who's flexible with data scientist, analyst as well as ML roles too.</h3>
+<h3 align="center">Avid data enthusiast who's flexible with data analyst, scientist as well as ML and business analyst roles too.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://blucharlie.com/cdn/shop/files/thought280.jpg?v=1724423667">
 
