@@ -3,7 +3,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=400&q=80">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=laflamex07&label=Profile%20views&color=0e75b6&style=flat" alt="laflamex07" /> </p>
+<p align="left"> <img src="https://blucharlie.com/products/days-before-rodeo?srsltid=AfmBOoocYRxh2jpX_CMd_NMw9u8U-wZ8JLnbpOsP-Yf2VU9WIHJd4e3p" alt="laflamex07" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/LaFlameX07?tab=repositories](https://github.com/LaFlameX07?tab=repositories)
 
