@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amit Murkalmath aka LaFlameX07</h1>
 <h3 align="center">Avid data enthusiast and automation engineer who's flexible with data analyst, scientist as well as ML and business analyst roles too.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://blucharlie.com/products/days-before-rodeo?srsltid=AfmBOoocYRxh2jpX_CMd_NMw9u8U-wZ8JLnbpOsP-Yf2VU9WIHJd4e3p">
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdo_ODDfmGvTNjpiOHZ842bYgoK0Dmci_urg&s">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laflamex07&label=Profile%20views&color=0e75b6&style=flat" alt="laflamex07" /> </p>
 
