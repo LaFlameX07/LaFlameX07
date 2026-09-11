@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/LaFlameX07?tab=repositories](https://github.com/LaFlameX07?tab=repositories)
 
-- 📫 How to reach me **murkalmath.amit@gmail.com** and **https://laflamex07.github.io/**
+- 📫 How to reach me **murkalmath.amit@gmail.com** , **amitmm02@umd.edu** and **https://laflamex07.github.io/**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1X1c2-juwNqaQd2_Lx3y0fmUoM89Se5Ug/view?usp=sharing](https://drive.google.com/file/d/1X1c2-juwNqaQd2_Lx3y0fmUoM89Se5Ug/view?usp=sharing)
 
